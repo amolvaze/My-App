@@ -9,6 +9,8 @@ function Header() {
      src = "http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png" 
       width = "500" height = "500" alt = "Problem"
        />
+       <br />
+        <br /> 
    </header>
  
  	)
